@@ -1,7 +1,6 @@
 Group Member: 
 
 Name: Trang Mai Hoang
-ID: 11691322
 
 What the app suppose to do: 
 - the app is supposed to be an e-learning platform 
