@@ -1,0 +1,228 @@
+[
+    {
+        "id": 1,
+        "lesson": 1,
+        "nameWord": "Apple",
+        "imageName": "apple",
+        "japaneseWord": {
+            "kanji": "林檎",
+            "hiragana": "りんご",
+            "nameWordInEnglishPhrases": "ringo"
+        },
+        "examples": {
+            "senInKanji": "林檎。",
+            "senInHiragana": "林檎。",
+            "senWordInHiraganaPhrases": "林檎。",
+            "senWordInEnglish": "林檎."
+        },
+        "isLearned": true
+    },
+    {
+        "id": 2,
+        "lesson": 1,
+        "nameWord": "Melon",
+        "imageName": "melon",
+        "japaneseWord": {
+            "kanji": "メロン",
+            "hiragana": "メロン",
+            "nameWordInEnglishPhrases": "meron"
+        },
+        "examples": {
+            "senInKanji": "メロン。",
+            "senInHiragana": "メロン。",
+            "senWordInHiraganaPhrases": "メロン。",
+            "senWordInEnglish": "メロン."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 3,
+        "lesson": 1,
+        "nameWord": "Orange",
+        "imageName": "orange",
+        "japaneseWord": {
+            "kanji": "オレンジ",
+            "hiragana": "オレンジ",
+            "nameWordInEnglishPhrases": "orenji"
+        },
+        "examples": {
+            "senInKanji": "オレンジ",
+            "senInHiragana": "オレンジ？",
+            "senWordInHiraganaPhrases": "オレンジ?",
+            "senWordInEnglish": "オレンジ?"
+        },
+        "isLearned": false
+    },
+    {
+        "id": 4,
+        "lesson": 1,
+        "nameWord": "Pear",
+        "imageName": "pear",
+        "japaneseWord": {
+            "kanji": "梨",
+            "hiragana": "なし",
+            "nameWordInEnglishPhrases": "nashi"
+        },
+        "examples": {
+            "senInKanji": "梨?",
+            "senInHiragana": "梨?",
+            "senWordInHiraganaPhrases": "梨?",
+            "senWordInEnglish": "梨?"
+        },
+        "isLearned": false
+    },
+    {
+        "id": 5,
+        "lesson": 1,
+        "nameWord": "Watermelon",
+        "imageName": "watermelon",
+        "japaneseWord": {
+            "kanji": "スイカ",
+            "hiragana": "スイカ",
+            "nameWordInEnglishPhrases": "suika"
+        },
+        "examples": {
+            "senInKanji": "スイカ。",
+            "senInHiragana": "スイカ。",
+            "senWordInHiraganaPhrases": "スイカ。",
+            "senWordInEnglish": "スイカ"
+        },
+        "isLearned": false
+    },
+    {
+        "id": 6,
+        "lesson": 2,
+        "nameWord": "Aubergine",
+        "imageName": "aubergine",
+        "japaneseWord": {
+            "kanji": "那須",
+            "hiragana": "なす",
+            "nameWordInEnglishPhrases": "nasu"
+        },
+        
+        "examples": {
+            "senInKanji": "那須。",
+            "senInHiragana": "那須。",
+            "senWordInHiraganaPhrases": "那須。",
+            "senWordInEnglish": "那須."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 7,
+        "lesson": 2,
+        "nameWord": "Mushroom",
+        "imageName": "mushroom",
+        "japaneseWord": {
+            "kanji": "マッシュルーム",
+            "hiragana": "マッシュルーム",
+            "nameWordInEnglishPhrases": "masshuruumu"
+        },
+        
+        "examples": {
+            "senInKanji": "マッシュルーム。",
+            "senInHiragana": "マッシュルーム。",
+            "senWordInHiraganaPhrases": "マッシュルーム。",
+            "senWordInEnglish": "マッシュルーム."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 8,
+        "lesson": 2,
+        "nameWord": "Onion",
+        "imageName": "onion",
+        "japaneseWord": {
+            "kanji": "玉葱",
+            "hiragana": "たまねぎ",
+            "nameWordInEnglishPhrases": "tamanegi"
+        },
+        
+        "examples": {
+            "senInKanji": "玉葱。",
+            "senInHiragana": "玉葱。",
+            "senWordInHiraganaPhrases": "玉葱。",
+            "senWordInEnglish": "玉葱."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 9,
+        "lesson": 2,
+        "nameWord": "Potato",
+        "imageName": "potato",
+        "japaneseWord": {
+            "kanji": "じゃが芋",
+            "hiragana": "じゃがいも",
+            "nameWordInEnglishPhrases": "jagaimo"
+        },
+        
+        "examples": {
+            "senInKanji": "じゃが芋。",
+            "senInHiragana": "じゃが芋。",
+            "senWordInHiraganaPhrases": "じゃが芋。",
+            "senWordInEnglish": "じゃが芋."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 10,
+        "lesson": 2,
+        "nameWord": "Tomato",
+        "imageName": "tomato",
+        "japaneseWord": {
+            "kanji": "トマト",
+            "hiragana": "トマト",
+            "nameWordInEnglishPhrases": "tomato"
+        },
+        
+        "examples": {
+            "senInKanji": "トマト。",
+            "senInHiragana": "トマト。",
+            "senWordInHiraganaPhrases": "トマト。",
+            "senWordInEnglish": "トマト."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 11,
+        "lesson": 3,
+        "nameWord": "Lemon",
+        "imageName": "lemon",
+        "japaneseWord": {
+            "kanji": "レモン",
+            "hiragana": "レモン",
+            "nameWordInEnglishPhrases": "remon"
+        },
+        
+        "examples": {
+            "senInKanji": "レモン。",
+            "senInHiragana": "レモン。",
+            "senWordInHiraganaPhrases": "レモン。",
+            "senWordInEnglish": "レモン."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 12,
+        "lesson": 3,
+        "nameWord": "Cucumber",
+        "imageName": "cucumber",
+        "japaneseWord": {
+            "kanji": "胡瓜",
+            "hiragana": "きゅうり",
+            "nameWordInEnglishPhrases": "kyuuri"
+        },
+        
+        "examples": {
+            "senInKanji": "胡瓜。",
+            "senInHiragana": "胡瓜。",
+            "senWordInHiraganaPhrases": "胡瓜。",
+            "senWordInEnglish": "胡瓜."
+        },
+        "isLearned": false
+    }
+]
+
+
+

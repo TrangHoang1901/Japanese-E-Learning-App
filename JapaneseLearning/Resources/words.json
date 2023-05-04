@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "lesson": 3,
+        "nameWord": "Hospital",
+        "imageName": "hospital",
+        "japaneseWord": {
+            "kanji": "病院",
+            "hiragana": "びょういん",
+            "nameWordInEnglishPhrases": "byouin"
+        },
+        "examples": {
+            "senInKanji": "僕 は 昨日 病院 に 行った。",
+            "senInHiragana": "ぼく は きのう びょういん に いった。",
+            "senWordInHiraganaPhrases": "boku wa kinou byouin ni it ta。",
+            "senWordInEnglish": "I went to a hospital yesterday."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 2,
+        "lesson": 1,
+        "nameWord": "School",
+        "imageName": "school",
+        "japaneseWord": {
+            "kanji": "学校",
+            "hiragana": "がっこう",
+            "nameWordInEnglishPhrases": "gakkou"
+        },
+        "examples": {
+            "senInKanji": "私 は 明日 学校 です。",
+            "senInHiragana": "わたし は あした がっこう です。",
+            "senWordInHiraganaPhrases": "watashi wa ashita gakkou desu。",
+            "senWordInEnglish": "I have school tomorrow."
+        },
+        "isLearned": false
+    },
+    {
+        "id": 3,
+        "lesson": 3,
+        "nameWord": "Post Office",
+        "imageName": "post_office",
+        "japaneseWord": {
+            "kanji": "郵便局",
+            "hiragana": "ゆうびんきょく",
+            "nameWordInEnglishPhrases": "yūbin kyoku"
+        },
+        "examples": {
+            "senInKanji": "郵便局 は まだ 開いています か？",
+            "senInHiragana": "ゆうびんきょく は まだ ひらい て います か？",
+            "senWordInHiraganaPhrases": "yūbinkyoku wa mada hirai te imasu ka?",
+            "senWordInEnglish": "Is the post office still open?"
+        },
+        "isLearned": false
+    },
+    {
+        "id": 4,
+        "lesson": 2,
+        "nameWord": "Restaurant",
+        "imageName": "restaurant",
+        "japaneseWord": {
+            "kanji": "レストラン",
+            "hiragana": "れすとらん",
+            "nameWordInEnglishPhrases": "resutoran"
+        },
+        "examples": {
+            "senInKanji": "レストラン に 行きましょう か?",
+            "senInHiragana": "れすとらん に いきましょう か?",
+            "senWordInHiraganaPhrases": "resutoran ni ikimashō ka?",
+            "senWordInEnglish": "Shall we go to a restaurant?"
+        },
+        "isLearned": false
+    },
+    {
+        "id": 5,
+        "lesson": 3,
+        "nameWord": "Library",
+        "imageName": "library",
+        "japaneseWord": {
+            "kanji": "図書館",
+            "hiragana": "としょかん",
+            "nameWordInEnglishPhrases": "toshokan"
+        },
+        "examples": {
+            "senInKanji": "図書館 に いって, 本 を 読む。",
+            "senInHiragana": "としょかん に いって, ほん を よむ。",
+            "senWordInHiraganaPhrases": "toshokan ni itte hon o yomu。",
+            "senWordInEnglish": "I am going to go to the library and read a book"
+        },
+        "isLearned": false
+    },
+    {
+        "id": 6,
+        "lesson": 3,
+        "nameWord": "Airport",
+        "imageName": "airport",
+        "japaneseWord": {
+            "kanji": "空港",
+            "hiragana": "くうこう",
+            "nameWordInEnglishPhrases": "kūkou"
+        },
+        
+        "examples": {
+            "senInKanji": "私 は 今朝 成田 空港 に 到着。",
+            "senInHiragana": "わたし は けさ なりた くうこう に とうちゃく した。",
+            "senWordInHiraganaPhrases": "watakushi wa kesa Narita kūkō ni tōchaku shita。",
+            "senWordInEnglish": "I arrived at Narita Airport this morning."
+        },
+        "isLearned": false
+    }
+]
+ 
+ 
+
+
